@@ -46,10 +46,6 @@ footer {
     background-color: #3e3f41;
 }
 
-p:hover {
-    background-color: rgb(184, 179, 181);
-}
-
 .alert {
     width: 600px;
     margin-left: 200px;
@@ -85,13 +81,9 @@ p:hover {
 }
 
 #call {
-    margin-top: -15px;
+    /* margin-top: 10px; */
     float: right;
-    margin-right: 20px;
-}
-
-li:hover {
-    background-color: rgb(14, 109, 34);
+    margin-right: 40px;
 }
 
 .tutorial-section {
